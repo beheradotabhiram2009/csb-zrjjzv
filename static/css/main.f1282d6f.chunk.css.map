@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,wBAAiC,CACjC,UACF,CAEA,KACE,sBACF","file":"main.f1282d6f.chunk.css","sourcesContent":["body {\n  background-color: rgb(32, 31, 31);\n  color: #eee;\n}\n\n.App {\n  font-family: sans-serif;\n}\n"]}
